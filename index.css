@@ -24,6 +24,11 @@ h1{
     letter-spacing: 4px;
     color:white;
 }
+h3{
+    color:white;
+    letter-spacing:2px;
+    font-size:20px;
+}
 .container{
     display: flex;
     position: relative;
